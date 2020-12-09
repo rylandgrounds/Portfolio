@@ -36,13 +36,22 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'mal.jpg',
+    img: 'mal.png',
     title: 'MAL Mock Up',
     info: 'A simplied version of MAL using the Jinkan API and Sinatra',
     info2: '',
-    url: '',
+    url: 'https://jikan-project-app.herokuapp.com/',
     repo: 'https://github.com/rylandgrounds/Sinatra_Portfolio_Project', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'to-do-list-apps-1400x1050.png',
+    title: 'React To Do List',
+    info: 'A small to do list app to test my knowledge with React Hooks, Context, and Composition',
+    info2: '',
+    url: 'https://to-do-rgrounds.herokuapp.com/',
+    repo: 'https://github.com/rylandgrounds/Sinatra_Portfolio_Project', // if no repo, the button will not show up
+  }
 ];
 
 // CONTACT DATA
