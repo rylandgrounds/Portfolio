@@ -45,12 +45,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'to-do-list-apps-1400x1050.png',
-    title: 'React To Do List',
-    info: 'A small to do list app to test my knowledge with React Hooks, Context, and Composition',
+    img: 'ecommerce-marketing-strategies-blog.jpg',
+    title: 'E-Commerce Store',
+    info: 'A functioning e-commerce site with React, Commerce.JS, and Stripe. With MaterialUI, it is also fully mobile responsive.',
     info2: '',
-    url: 'https://to-do-rgrounds.herokuapp.com/',
-    repo: 'https://github.com/rylandgrounds/Sinatra_Portfolio_Project', // if no repo, the button will not show up
+    url: 'https://commerce-portfolio.netlify.app/',
+    repo: 'https://github.com/rylandgrounds/e-commerce-portfolio', // if no repo, the button will not show up
   }
 ];
 
