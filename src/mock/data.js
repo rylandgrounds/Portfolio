@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Software Engineer', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Welcome to my portfolio!', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -28,6 +28,16 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'fresh.jpg',
+    title: 'Gato Ramen',
+    info:
+      'A clean and modern restaurant website design.',
+    info2: '',
+    url: 'https://rylandgrounds.github.io/ramen-restaurant/',
+    repo: 'https://github.com/rylandgrounds/ramen-restaurant', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'ecommerce-marketing-strategies-blog.jpg',
