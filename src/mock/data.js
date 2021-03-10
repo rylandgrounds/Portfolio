@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.png',
+  img: 'part0-8.jpg',
   paragraphOne:
     'I am twenty-three years old and a recent graduate of the Flatiron Software Engineering Bootcamp. Reading is my favorite past time as well as the pursuit of the perfect cup of coffee. I was the family tech priest for so long that I figured I may as well start getting paid doing it. Currently in a web design internship for the NPO Minaret foundation.',
   paragraphTwo:
