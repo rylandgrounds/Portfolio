@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.png',
   paragraphOne:
-    'I am twenty-three years old and a recent graduate of the Flatiron Software Engineering Bootcamp. Reading is my favorite past time as well as the pursuit of the perfect cup of coffee. I was the family tech priest for so long that I figured I may as well start getting paid doing it. Currently trying to make a tetris AI that I can wind up holding a leaderboard position.',
+    'I am twenty-three years old and a recent graduate of the Flatiron Software Engineering Bootcamp. Reading is my favorite past time as well as the pursuit of the perfect cup of coffee. I was the family tech priest for so long that I figured I may as well start getting paid doing it. Currently in a web design internship for the NPO Minaret foundation.',
   paragraphTwo:
-    'My stack currently includes Javascript, Ruby, Ruby on Rails, React, Redux, and Python. I can use SQL for database management and have experience deploying my sites to production. Right now I am looking for my first break into the field so I can start contributing. My professional mindset in a nutshell is whatever I make will work and work effeciently.',
+    'My stack currently includes Javascript, Ruby, Ruby on Rails, React, Redux, and Python. I can use SQL for database management and have experience deploying my sites to production. Right now I am looking for my first break into the field so I can start contributing. My professional mindset in a nutshell is get it done and get it done right.',
   resume:
     'https://docs.google.com/document/d/1v7590ivkb4Z6426oyA8Ps7gxJ9ehYA89olcUgLGhPVg/edit?usp=sharing', // if no resume, the button will not show up
 };
